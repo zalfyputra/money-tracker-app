@@ -1,0 +1,6 @@
+{  
+ "backend-service-url": "https://mlgc-backend-zcxorivp7a-et.a.run.app",
+ "frontend-service-url": "http://submissionmlgc-zalfyputra.et.r.appspot.com/",
+ "project-id": "submissionmlgc-zalfyputra",
+ "bucket-name": "mlgc-submission-storage"
+}
